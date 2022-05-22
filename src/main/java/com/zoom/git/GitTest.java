@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("curry ~ ");
         System.out.println("west ~ ");
         System.out.println("durant ~ ");
+        System.out.println("hot-fix update");
     }
 }
