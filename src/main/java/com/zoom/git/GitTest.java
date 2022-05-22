@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("kobe ~ ");
         System.out.println("curry ~ ");
         System.out.println("west ~ ");
+        System.out.println("durant ~ ");
     }
 }
