@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("durant ~ ");
         System.out.println("master update");
         System.out.println("hot-fix update");
+        System.out.println("pull request");
 
     }
 }
